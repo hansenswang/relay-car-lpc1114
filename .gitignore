@@ -1,0 +1,31 @@
+# ---- Keil MDK build artefacts -------------------------------------------
+Objects/
+Listings/
+DebugConfig/
+*.uvguix.*
+*.scvd
+*.bak
+*.dep
+*.crf
+*.o
+*.d
+*.axf
+*.htm
+*.lnp
+*.plg
+*.iex
+*.sct
+*.build_log.htm
+JLinkLog.txt
+RTE/
+
+# ---- Binary / IDE noise -------------------------------------------------
+*.zip
+*.rar
+*.7z
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ---- Local reference material (not redistributable) ---------------------
+docs/private/
